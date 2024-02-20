@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdf_docs=self.webpackChunkdf_docs||[]).push([[7986],{2762:o=>{o.exports=JSON.parse('{"permalink":"/df-docs/docs/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

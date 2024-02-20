@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdf_docs=self.webpackChunkdf_docs||[]).push([[9275],{2398:s=>{s.exports=JSON.parse('{"label":"hello","permalink":"/df-docs/docs/blog/tags/hello","allTagsPath":"/df-docs/docs/blog/tags","count":2,"unlisted":false}')}}]);
