@@ -16,11 +16,11 @@ const config = {
   url: 'https://org-datafella.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: '/df-docs/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'datafella.org', // Usually your GitHub org/user name.
+  organizationName: 'org-datafella', // Usually your GitHub org/user name.
   projectName: 'df-docs', // Usually your repo name.
   deploymentBranch: 'gh-pages',
   trailingSlash: false,
