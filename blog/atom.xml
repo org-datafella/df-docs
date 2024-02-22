@@ -33,6 +33,18 @@
             <name>Hasani Perera</name>
             <uri>https://github.com/Hazperera</uri>
         </author>
+        <author>
+            <name>Peshani Umodhya</name>
+            <uri>https://github.com/PeshaniRathnasooriya</uri>
+        </author>
+        <author>
+            <name>Malsha Dissanayake</name>
+            <uri>https://github.com/MalshaDissanayake</uri>
+        </author>
+        <author>
+            <name>Sanka Dedigama</name>
+            <uri>https://github.com/Sanka09</uri>
+        </author>
         <category label="facebook" term="facebook"/>
         <category label="hello" term="hello"/>
         <category label="docusaurus" term="docusaurus"/>
